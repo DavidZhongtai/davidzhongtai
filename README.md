@@ -21,7 +21,7 @@ I'm a developer passionate about self studying all things machine learning and s
 
  - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
  - Instagram: [instagram.com/davidzhongtai](https://www.instagram.com/davidzhongtai/)
- - LinkedIn: [LinkedIn.com/DavidAn] (https://www.linkedin.com/in/david-an-477178106/)
+ - LinkedIn: [LinkedIn.com/DavidAn](https://www.linkedin.com/in/david-an-477178106/)
  - Personal Life: [vsco.co/zhongtaii](https://vsco.co/zhongtaii/gallery)
  
 
