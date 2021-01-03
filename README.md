@@ -1,4 +1,12 @@
-### Hi! I'm David [Zhongtai] An 👋
+### Hi! I'm David An 👋
+
+### About Me 👨🏻‍💻
+
+Aspiring Artificial Intelligence Researcher with an interest in Natural Language Processing (NLP). I am a current high schooler in 12th grade and have coded for the past 3 years when I started my associate's in Computer Science. I am currently self-studying machine learning technologies. 
+
+### Developer Stack 
+
+### Hobbies 
 
 <!--
 **DavidZhongtai/Davidzhongtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
