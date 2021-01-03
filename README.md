@@ -2,12 +2,19 @@
 
 >/ˈdeɪvɪd æn/
 
-I'm a Programmer currently self studying Machine Learning who loves developing applications on the side. I am still a high school student (12th grade) preapring for college. I love the adrenaline rush when a program successfully compiles. 
+I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced python topics! 
 
-### Tech Stack 
- - Java  
+### 🧱 Tech Stack 
+ - Jupyter Notebooks
+ - Java
+ - Python 
+ 
+### 🔭 Currently Working On: 
+ - Novel algorithm for Fake News Detection (FND)
+ - Learning reactive web development 
+ - Growing my skillset in machine learning
 
-### Get in touch!
+### 📫 Get in touch!
 
  - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
  - Instagram: [instagram.com/davidzhongtai](https://www.instagram.com/davidzhongtai/)
