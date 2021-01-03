@@ -1,4 +1,4 @@
-### Hi! I am David <Zhongtai> An 👋
+### Hi! I'm David [Zhongtai] An 👋
 
 <!--
 **DavidZhongtai/Davidzhongtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
