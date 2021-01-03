@@ -5,7 +5,7 @@
 ### David An
 >/ˈdeɪvɪd æn/
 
-I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced Python topics! In my spare time, I enjoy running and playing the piano. 
+I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced Python topics and building websites with HTML + CSS! In my spare time, I enjoy running and playing the piano. 
 
 ### 🧱 Tech Stack 
  - Jupyter Notebooks
@@ -14,8 +14,8 @@ I'm a developer passionate about self studying all things machine learning and s
  
 ### 🔭 Currently Working On: 
  - Novel algorithm for Fake News Detection (FND)
- - Learning reactive web development 
  - Growing my skillset in machine learning
+ - Learning reactive web development 
 
 ### 📫 Get in touch!
 
