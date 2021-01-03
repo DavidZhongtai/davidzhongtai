@@ -5,7 +5,7 @@
 ### David An
 >/ˈdeɪvɪd æn/
 
-I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced python topics! 
+I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced Python topics! 
 
 ### 🧱 Tech Stack 
  - Jupyter Notebooks
@@ -21,7 +21,9 @@ I'm a developer passionate about self studying all things machine learning and s
 
  - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
  - Instagram: [instagram.com/davidzhongtai](https://www.instagram.com/davidzhongtai/)
+ - LinkedIn: [LinkedIn.com/DavidAn] (https://www.linkedin.com/in/david-an-477178106/)
  - Personal Life: [vsco.co/zhongtaii](https://vsco.co/zhongtaii/gallery)
+ 
 
 <!--
 **DavidZhongtai/Davidzhongtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
