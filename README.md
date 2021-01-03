@@ -2,7 +2,7 @@
 <a><img src="https://github.com/DavidZhongtai/Davidzhongtai/blob/main/Banner.png" alt="Banner" border="0"/></a> -->                                                                        
 
 
-# David An
+## David An
 >/ˈdeɪvɪd æn/
 
 I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced python topics! 
