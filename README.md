@@ -1,5 +1,5 @@
 <!--**
-<a><img src="https://github.com/DavidZhongtai/Davidzhongtai/blob/main/Banner.png" alt="Banner" border="0"/></a>                                                                         
+<a><img src="https://github.com/DavidZhongtai/Davidzhongtai/blob/main/Banner.png" alt="Banner" border="0"/></a> -->                                                                        
 
 
 # David An
