@@ -1,4 +1,6 @@
-### Hi! I'm David An 👋
+### David An
+
+>/ˈdeɪvɪd æn/
 
 ### About Me 👨🏻‍💻
 
