@@ -1,4 +1,4 @@
-<a href="https://ibb.co/LYh72Cj"><img src="https://i.ibb.co/gmFKBDq/Banner.png" alt="Banner" border="0" /></a>                                                                         
+<a><img src="https://github.com/DavidZhongtai/Davidzhongtai/blob/main/Banner.png" alt="Banner" border="0"/></a>                                                                         
 
 >/ˈdeɪvɪd æn/
 
