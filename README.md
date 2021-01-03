@@ -13,8 +13,8 @@ I'm a developer passionate about self studying all things machine learning and s
  - Python 
  
 ### 🔭 Currently Working On: 
- - Novel algorithm for Fake News Detection (FND)
- - Growing my skillset in machine learning
+ - Researching a novel algorithm for Fake News Detection (FND)
+ - Growing my machine learning skillset
  - Learning reactive web development 
 
 ### 📫 Get in touch!
