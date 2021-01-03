@@ -1,8 +1,11 @@
-### David An
+# David An 👋🏻👨🏻‍💻
 
 >/ˈdeɪvɪd æn/
 
 I'm a Programmer currently self studying Machine Learning who loves developing applications on the side. I am still a high school student (12th grade) preapring for college. I love the adrenaline rush when a program successfully compiles. 
+
+### Tech Stack 
+ - Java  
 
 ### Get in touch!
 
