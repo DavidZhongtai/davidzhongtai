@@ -2,13 +2,13 @@
 
 >/ˈdeɪvɪd æn/
 
-### About Me 👨🏻‍💻
+I'm a Programmer currently self studying Machine Learning who loves developing applications on the side. I am still a high school student (12th grade) preapring for college. I love the adrenaline rush when a program successfully compiles. 
 
-Aspiring Artificial Intelligence Researcher with an interest in Natural Language Processing (NLP). I am a current high schooler in 12th grade and have coded for the past 3 years when I started my associate's in Computer Science. I am currently self-studying machine learning technologies. 
+### Get in touch!
 
-### Developer Stack 
-
-### Hobbies 
+ - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
+ - Instagram: [instagram.com/davidzhongtai](https://www.instagram.com/davidzhongtai/)
+ - Personal Life: [vsco.co/zhongtaii](https://vsco.co/zhongtaii/gallery)
 
 <!--
 **DavidZhongtai/Davidzhongtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
