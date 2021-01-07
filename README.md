@@ -5,7 +5,7 @@
 ### David An
 >/ ˈ deɪvɪd æn /
 
-I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced Python topics and building websites with HTML + CSS! In my spare time, I enjoy running and playing the piano. I am also open for hire!
+I'm a developer passionate about self studying all things machine learning and software development. I am still a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced Python topics and building websites with HTML + CSS! In my spare time, I enjoy running and playing the piano.
 
 ### 🧱 Tech Stack 
  - Jupyter Notebooks
