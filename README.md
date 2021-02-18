@@ -13,7 +13,7 @@ I'm a developer passionate about self studying all things machine learning and s
 ### 🔭 Currently Working On: 
  - Researching a novel algorithm for Fake News Detection (FND)
  - Growing my machine learning skillset
- - Learning reactive web development 
+ - Learning reactive web development (Udemy)
 
 ### 📫 Get in touch!
 
