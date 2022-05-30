@@ -1,11 +1,15 @@
 
 
-### David An
->/ ˈ deɪvɪd æn /
+### 🖥️ David An
+- Data Science @ Ameren 
+- NLP research w/ Illinois Risk Lab
 
-I'm a developer passionate about self studying all things machine learning and software development. I am a high school student (12th grade) preapring for college. I enjoy working in Python and Java. Recently, I just started learning advanced Python topics and building websites with HTML + CSS! In my spare time, I enjoy running and playing the piano.
 
-### 🧱 Tech Stack 
+### 📫 Get in touch!
+
+ - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
+ - LinkedIn: [LinkedIn.com/DavidAn](https://www.linkedin.com/in/davidzhongtaian)
+<!-- ### 🧱 Tech Stack 
  - Jupyter Notebooks 
  - Java
  - Python 
@@ -20,7 +24,7 @@ I'm a developer passionate about self studying all things machine learning and s
  - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
  - Instagram: [instagram.com/davidzhongtai](https://www.instagram.com/davidzhongtai/)
  - LinkedIn: [LinkedIn.com/DavidAn](https://www.linkedin.com/in/david-an-477178106/)
- - Personal Life: [vsco.co/zhongtaii](https://vsco.co/zhongtaii/gallery)
+ - Personal Life: [vsco.co/zhongtaii](https://vsco.co/zhongtaii/gallery) -->
 
  
 
