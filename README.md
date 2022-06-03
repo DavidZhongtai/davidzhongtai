@@ -2,7 +2,7 @@
 
 ### 🖥️ David An
 - Data Science @ Ameren 
-- NLP research w/ Illinois Risk Lab
+- NLP research @ Illinois Risk Lab
 
 
 ### 📫 Get in touch!
