@@ -1,14 +1,15 @@
 
 
 ### 🖥️ David An
-- Data Science @ Ameren 
-- NLP research @ Illinois Risk Lab
+- Previously Data Science @ Ameren 
 
 
 ### 📫 Get in touch!
 
- - Email: [davidzhongtaian@gmail.com](mailto:davidzhongtaian@gmail.com)
- - LinkedIn: [LinkedIn.com/DavidAn](https://www.linkedin.com/in/davidzhongtaian)
+ - Website: [davidan.dev](https://davidan.dev)
+ - Email: davidzhongtaian @ gmail dot com
+ - LinkedIn: [Linkedin.com/DavidAn](https://www.linkedin.com/in/davidzhongtaian)
+ 
 <!-- ### 🧱 Tech Stack 
  - Jupyter Notebooks 
  - Java
