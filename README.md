@@ -1,13 +1,13 @@
 
 
 ### 🖥️ David An
-- Previously Data Science @ Ameren 
+- Currently Software @ Red Cell Partners
+- Previously Data Science @ Ameren
 
 
 ### 📫 Get in touch!
 
  - Website: [davidan.dev](https://davidan.dev)
- - Email: davidzhongtaian @ gmail dot com
  - LinkedIn: [Linkedin.com/DavidAn](https://www.linkedin.com/in/davidzhongtaian)
  
 <!-- ### 🧱 Tech Stack 
